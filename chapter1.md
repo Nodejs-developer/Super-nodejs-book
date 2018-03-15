@@ -93,8 +93,7 @@ npm \(аббр. node package manager\) — это стандартный мен�
 
 ## Ссылки {#ссылки}
 
-1. Материал из Википедии по Node.js \[Электронный ресурс\]. -
-   [https://ru.wikipedia.org/wiki/Node.js](https://ru.wikipedia.org/wiki/Node.js)
+1. Материал из Википедии по Node.js \[Электронный ресурс\]. - [https://ru.wikipedia.org/wiki/Node.js](https://ru.wikipedia.org/wiki/Node.js)
 
 
 
