@@ -2,7 +2,7 @@
 
 ## **Цель** {#цель}
 
-Ознакомится с модулем[Path](https://nodejs.org/dist/latest-v8.x/docs/api/path.html#path_path)и его основными методами.
+Ознакомится с модулем [Path](https://nodejs.org/dist/latest-v8.x/docs/api/path.html#path_path) и его основными методами.
 
 ## Предварительные**требования** {#предварительные-требования}
 
@@ -22,7 +22,7 @@
 | [path.dirname\(path\)](https://nodejs.org/dist/latest-v8.x/docs/api/path.html#path_path_dirname_path) | Bозвращает имя каталога пути |
 | [path.extname\(path\)](https://nodejs.org/dist/latest-v8.x/docs/api/path.html#path_path_extname_path) | Возвращает расширение файла по пути, заданному в параметре |
 | [path.isAbsolute\(path\)](https://nodejs.org/dist/latest-v8.x/docs/api/path.html#path_path_isabsolute_path) | Возвращает true, если путь является абсолютным путем, иначе false |
-| [path.parse\(path\)](https://nodejs.org/dist/latest-v8.x/docs/api/path.html#path_path_parse_path) | Возвращает объект со свойствами: root, dir, base, ext, name  |
+| [path.parse\(path\)](https://nodejs.org/dist/latest-v8.x/docs/api/path.html#path_path_parse_path) | Возвращает объект со свойствами: root, dir, base, ext, name |
 
 ## Практическое задание {#практическое-задание}
 
@@ -37,6 +37,6 @@
 
 ## Ссылки {#ссылки}
 
-[        
+[          
 ](https://nodejs-junior-developer-traini.gitbooks.io/super-book-of-node-js/content/rabota-s-modulyami-v-nodejs.html)
 
