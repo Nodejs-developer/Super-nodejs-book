@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Введение](README.md)
+* [Советы по прохождению курса](chapter1.md)
+
